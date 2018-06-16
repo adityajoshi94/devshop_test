@@ -21,3 +21,4 @@ $response->send();
 
 $kernel->terminate($request, $response);
 echo "aditya";
+echo "drupal";
